@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, Im Twitch Streamer, Youtuber, Minecraft Server Developer "IPECTER"
+### 안녕하세요. 저는 트위치 스트리머, 유튜버, 마크 서버 개발자 "이팩터"입니다
 
 <!--
 **IPECTER/IPECTER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+"
