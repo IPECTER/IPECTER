@@ -8,3 +8,9 @@
   - Python
 
 </details>
+
+## Contact
+[ [GitHub](https://github.com/IPECTER) ]
+[ [Discord]() ]
+[ [Email](mailto:ipectert@gmail.com⁹?subject=[GitHub]) ]
+  
