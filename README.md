@@ -11,6 +11,6 @@
 
 ## Contact
 [ [GitHub](https://github.com/IPECTER) ]
-[ [Discord]() ]
-[ [Email](mailto:ipectert@gmail.com⁹?subject=[GitHub]) ]
+[ [Discord](https://discord.gg/WnC2wFa6Uq) ]
+[ [Email](mailto:ipectert@gmail.com?subject=[GitHub]) ]
   
