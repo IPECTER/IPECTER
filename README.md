@@ -4,10 +4,12 @@
   <p>안녕하세요. 트위치 스트리머, 유튜버, 마크 서버 개발자 "이팩터"입니다</p>
 <p>
   <p>• Language •</p>
-  <a href="#"><img src="https://img.shields.io/badge/JAVA-5865F2?&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PYTHON-5865F2?&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JAVA-5865F2?&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
-  <a href="#"><img src="https://img.shields.io/badge/트위치%20이팩터%235621-5865F2?&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JAVA-f56042?&logo=oracle&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PYTHON-4266f5?&logo=python&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/KOTLIN-d142f5?&logo=kotlin&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-4266f5?&logo=c&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-7542f5?&logo=c%20sharp&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-7542f5?&logo=c%20sharp&style=for-the-badge&logoColor=ffffff"></a>
 </p>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IPECTER&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&line_height=27&hide_border=true&border_radius=0"></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPECTER&langs_count=3&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
