@@ -15,10 +15,10 @@
   
 <p>
   <p>• Social & Contact •</p>
-  <a href="https://twitch.tv/ipecter"><img src="https://img.shields.io/twitch/status/ipecter?color=%235865F2&logo=twitch&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="https://twitch.tv/ipecter"><img src="https://img.shields.io/twitch/status/ipecter?color=%238142f5&logo=twitch&style=for-the-badge&logoColor=ffffff"></a>
   <a href="https://discord.gg/WnC2wFa6Uq"><img src="https://img.shields.io/discord/894887872765771796?color=%235865F2&label=Discord&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
   <a href="https://discord.gg/WnC2wFa6Uq"><img src="https://img.shields.io/discord/894887872765771796?color=%235865F2&label=Discord&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
-  <a href="mailto:ipectert@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-ipectert%40gmail.com-ffffff?color=%235865F2&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
+  <a href="mailto:ipectert@gmail.com?subject=[GitHub] "><img src="https://img.shields.io/badge/Email-ipectert%40gmail.com-EA4335?&logo=gmail&style=for-the-badge&logoColor=ffffff"></a>
   </p>
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&fontSize=50&fontAlignY=40&fontColor=FFFFFF&color=100:4f4dff,0:de47cc&section=footer"></a>
 </div>
