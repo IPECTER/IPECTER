@@ -12,7 +12,7 @@
   </p>
   <br>
 <p>
-  <p><strong>• Language •</strong></p>
+  <p><strong>• Languages •</strong></p>
   <a href="#"><img src="https://img.shields.io/badge/JAVA-f56042?&logo=oracle&style=for-the-badge&logoColor=ffffff"></a>
   <a href="#"><img src="https://img.shields.io/badge/PYTHON-4266f5?&logo=python&style=for-the-badge&logoColor=ffffff"></a>
   <a href="#"><img src="https://img.shields.io/badge/KOTLIN-d142f5?&logo=kotlin&style=for-the-badge&logoColor=ffffff"></a>
@@ -25,7 +25,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPECTER&langs_count=3&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
 <br>
 <p>
-  <p><strong>• Social & Contact •</strong></p>
+  <p><strong>• Socials & Contacts •</strong></p>
   <a href="https://twitch.tv/ipecter"><img src="https://img.shields.io/twitch/status/ipecter?color=%238142f5&logo=twitch&style=for-the-badge&logoColor=ffffff"></a>
   <a href="https://discord.gg/WnC2wFa6Uq"><img src="https://img.shields.io/discord/894887872765771796?color=%235865F2&label=Discord&logo=discord&style=for-the-badge&logoColor=ffffff"></a>
   <a href="https://youtube.com/c/%EC%9D%B4%ED%8C%A9%ED%84%B0"><img src="https://img.shields.io/youtube/channel/subscribers/UCScAFGefnrRrc41IC4DZGoQ?color=red&label=youtube&logo=youtube&style=for-the-badge&logoColor=ffffff"></a>
