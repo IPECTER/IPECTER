@@ -21,8 +21,8 @@
   <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-b89721?&logo=javascript&style=for-the-badge&logoColor=ffffff"></a>
 </p>
 <br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IPECTER&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&line_height=27&hide_border=true&border_radius=0"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPECTER&langs_count=3&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
+<a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api?username=IPECTER&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&line_height=27&hide_border=true&border_radius=0"></a>
+<a href="#"><img src="https://github-readme-stats-psi-topaz.vercel.app/api/top-langs/?username=IPECTER&langs_count=3&count_private=true&show_icons=true&bg_color=DEG,4f4dff,de47cc&text_color=d6d6d6&title_color=f0f0f0&icon_color=f0f0f0&locale=en&hide_border=true&border_radius=0"></a>
 <br>
 <p>
   <p><strong>• Socials & Contacts •</strong></p>
