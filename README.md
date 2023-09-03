@@ -8,7 +8,6 @@
     <p>- 마인크래프트 서버, <a href="https://site.rtuserver.kr">《 RTU SERVER 》</a> 개발자</p>
     <p>- 2DDU (<a href="https://youtube.com/@2ddu">뚜뚜형</a>) 마인크래프트 컨텐츠 모드 개발자</p>
     <p>- Rma (<a href="https://youtube.com/@RmaGodH">르마</a>) 마인크래프트 컨텐츠 플러그인 개발자</p>
-    <p>- <a href="https://github.com/Arthed-Studios">Arthed Studio<a> MC Plugin Developer</p>
     <p>- 수많은 트위치 마인크래프트 스트리머분들의 천사</p>
     <p>- <a href="https://github.com/Arthed-Studios">Arthed Studio<a> MC Plugin Developer</p>
   </p>
