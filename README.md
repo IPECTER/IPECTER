@@ -5,8 +5,9 @@
   <br>
   <p>
     <p><strong>• Now •</strong></p>
-    <p>- MC Server, <a href="https://site.rtuserver.kr">《 RTU SERVER 》</a> Developer</p>
-    <p>- 2DDU (<a href="https://youtube.com/@2ddu">뚜뚜형</a>) MC Contents Mod Developer</p>
+    <p>- 마인크래프트 서버, <a href="https://site.rtuserver.kr">《 RTU SERVER 》</a> 개발자</p>
+    <p>- 2DDU (<a href="https://youtube.com/@2ddu">뚜뚜형</a>) 마인크래프트 컨텐츠 모드 개발자</p>
+    <p>- Rma (<a href="https://youtube.com/@RmaGodH">르마</a>) 마인크래프트 컨텐츠 플러그인 개발자</p>
     <p>- <a href="https://github.com/Arthed-Studios">Arthed Studio<a> MC Plugin Developer</p>
     <p>- MC Angel of Many Twitch Broadcaster (???)</p>
   </p>
