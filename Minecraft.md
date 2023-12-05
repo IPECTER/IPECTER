@@ -5,11 +5,13 @@
     <p>2DDU (<a href="https://youtube.com/@2ddu">뚜뚜형</a>) 마인크래프트 컨텐츠 모드 개발자</p>
     <p>Rma (<a href="https://youtube.com/@RmaGodH">르마</a>) 마인크래프트 컨텐츠 플러그인/모드 개발자</p>
     <p><a href="https://github.com/Arthed-Studios">Arthed Studio<a> MC Plugin Developer</p>
+    <p>한국 안정성/호환성/최적화 버킷 PlazmaMC/Plazma 공동 개발자</p>
   </p>
   <br>
   <p>
     <p><strong>• Server •</strong></p>
-    <p>2020-2024 크리에이터 서버, <a href="https://site.rtuserver.kr">《 RTU SERVER 》</a>운영자</p>
+    <p>2020-2024 크리에이터 서버, <a href="https://site.rtuserver.kr">《 RTU Festival 》</a>운영자 및 개발자</p>
+    <p>2023-2024 《 RTU Flame 》운영자 및 개발자</p>
     <p>2022 뚜뚜형의 뚜뚜서버 초기 셋팅</p>
     <p>2022 트위치 스트리머 서버, 살랑시티 관리자</p>
     <p>2023 아프리카TV 공식 지원 서버 1기, 이다파크 관리자</p>
