@@ -1,7 +1,7 @@
 <div align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=•%20IPECTER%20이팩터%20•&fontSize=50&fontAlignY=40&fontColor=FFFFFF&color=0:4f4dff,100:de47cc"></a>
-  <p><strong>Hi. Im Twitch Broadcaster, Youtuber, Minecraft Server Developer "IPECTER"</strong></p>
-  <p><strong>안녕하세요. 트위치 스트리머, 유튜버, 마크 서버 개발자 "이팩터"입니다</strong></p>
+  <p><strong>Hi. Im Chzzk & SOOP Broadcaster, Minecraft Server Developer "IPECTER"</strong></p>
+  <p><strong>안녕하세요. 치지직 & 숲 스트리머, 마크 서버 개발자 "이팩터"입니다</strong></p>
   <br>
   <p>
     <p><strong>• Now •</strong></p>
