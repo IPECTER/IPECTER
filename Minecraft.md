@@ -12,7 +12,7 @@
   <br>
   <p>
     <p><strong>• Server •</strong></p>
-    <p>2020-2024 크리에이터 서버, <a href="https://site.rtuserver.kr">Festival</a> 운영자 및 개발자</p>
+    <p>2020-2025 크리에이터 서버, <a href="https://site.rtuserver.kr">Festival</a> 운영자 및 개발자</p>
     <p>2023-2025 <a href="https://discord.gg/rkVFwR9kEt">호랑스토어</a> 메인 개발자 및 관리진</p>
     <p>2024-2025 350개 이상의 서버 셋팅 및 최적화</p>
     <p>2022 뚜뚜형의 뚜뚜서버 초기 셋팅</p>
