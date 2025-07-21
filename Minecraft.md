@@ -2,7 +2,8 @@
   <p>
     <p><strong>• Development •</strong></p>
     <p>6년차 마인크래프트 개발자</p>
-    <p>스트리머 서버 및 대규모 서버 제작팀 Lede Studios 참여 개발자</p>
+    <p>스트리머 서버 제작팀 Lede Studios 참여 개발자</p>
+    <p><a href="https://www.singlethread.studio/">싱글스레드</a> 외주 개발자</p>
     <p>한국 최적화 버킷 <a href="https://github.com/PlazmaMC/PlazmaBukkit">Plazma</a> 공동 개발자</p>
     <p>스트리머 서버, <a href="https://site.rtuserver.kr">Festival</a> 개발자</p>
     <p>크리에이터 <a href="https://youtube.com/@2ddu">뚜뚜형</a> 마인크래프트 컨텐츠 모드 개발자</p>
