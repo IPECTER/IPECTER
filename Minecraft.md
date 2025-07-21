@@ -2,12 +2,13 @@
   <p>
     <p><strong>• Development •</strong></p>
     <p>6년차 마인크래프트 개발자</p>
-    <p>마인크래프트 서버, <a href="https://site.rtuserver.kr">Festival</a> 개발자</p>
-    <p>2DDU (<a href="https://youtube.com/@2ddu">뚜뚜형</a>) 마인크래프트 컨텐츠 모드 개발자</p>
-    <p>Rma (<a href="https://youtube.com/@RmaGodH">르마</a>) 마인크래프트 컨텐츠 플러그인/모드 개발자</p>
-    <p><a href="https://github.com/Arthed-Studios">Arthed Studio<a> MC Plugin Developer</p>
-    <p><a href="https://github.com/RTUStudio">RTUStudio<a> MC Plugin Developer</p>
-    <p>한국 안정성/호환성/최적화 버킷 PlazmaMC/Plazma 공동 개발자</p>
+    <p>스트리머 서버 및 대규모 서버 제작팀 Lede Studios 참여 개발자</p>
+    <p>한국 최적화 버킷 <a href="https://github.com/PlazmaMC/PlazmaBukkit">Plazma</a> 공동 개발자</p>
+    <p>스트리머 서버, <a href="https://site.rtuserver.kr">Festival</a> 개발자</p>
+    <p>크리에이터 <a href="https://youtube.com/@2ddu">뚜뚜형</a> 마인크래프트 컨텐츠 모드 개발자</p>
+    <p>크리에이터 <a href="https://youtube.com/@RmaGodH">르마</a> 마인크래프트 컨텐츠 플러그인/모드 개발자</p>
+    <p><a href="https://github.com/Arthed-Studios">Arthed Studio<a> 플러그인 개발자</p>
+    <p><a href="https://github.com/RTUStudio">RTUStudio<a> 플러그인 개발자</p>
   </p>
   <br>
   <p>
