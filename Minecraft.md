@@ -25,7 +25,7 @@
 
 #### 2025년
 
-* [**오아**](https://ch.sooplive.co.kr/legendhyuk) 주최 스트리머 서버, [**오함마 시즌 3**](https://namu.wiki/w/오함마%20시즌%203) 최적화
+* [**오아**](https://ch.sooplive.co.kr/legendhyuk) 주최 스트리머 서버, [**오함마 시즌 3**](https://ch.sooplive.co.kr/legendhyuk/post/168617021) 최적화
 * [**두칠**](https://www.youtube.com/@두칠이의게임방송) 주최 스트리머 서버, [**두아온**](https://gall.dcinside.com/mini/board/view/?id=soopvirtualstreamer&no=1425917) 최적화
 * 마인리스트 1위 **위르드 온라인** 기술 제공 및 최적화
 * 마인리스트 4위 [**베어타운**](https://www.beartown.kr/) 기술 제공 및 최적화</p>
