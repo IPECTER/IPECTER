@@ -5,7 +5,7 @@
   <br>
   <p>
     <p><strong>▶ Now ◀</strong></p><br>
-    <p>스트리머 서버, <a href="https://site.rtuserver.kr">페스티벌</a> 개발자</p>
+    <p>스트리머 서버, <a href="https://festival.astria.kr">페스티벌</a> 개발자</p>
     <p><a href="https://github.com/IPECTER/IPECTER/blob/main/Minecraft.md">마인크래프트 관련 활동 기록</a></p>
   </p>
   <br>
