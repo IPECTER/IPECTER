@@ -5,9 +5,8 @@
 ## • Development Experience •
 
 * **6년차 마인크래프트 개발자**로서 다수의 프로젝트를 성공적으로 수행했습니다.
-* 스트리머 서버 [**Festival**](https://site.rtuserver.kr) 개발에 참여했습니다.
 * 한국 최적화 버킷 [**Plazma**](https://github.com/PlazmaMC/PlazmaBukkit) 공동 개발자로 활동했습니다.
-* 스트리머 서버 제작팀 **Lede Studios**에 참여하여 개발 역량을 발휘했습니다.
+* 스트리머 서버 제작팀 **LevelDev Studios**에 참여하여 개발 역량을 발휘했습니다.
 * [**뚜뚜형**](https://youtube.com/@2ddu)의 마인크래프트 콘텐츠 모드를 개발했습니다.
 * [**르마**](https://youtube.com/@RmaGodH)의 마인크래프트 콘텐츠 플러그인/모드 개발을 진행했습니다.
 * [**Arthed Studio**](https://github.com/Arthed-Studios) 및 [**RTUStudio**](https://github.com/RTUStudio)에서 플러그인 개발을 진행했습니다.
@@ -17,16 +16,24 @@
 
 ## • Server Operations & Technical Support •
 
-* **2020-2025:** 스트리머 서버 [**Festival**](https://site.rtuserver.kr) 운영 및 개발
+* **2020-2025:** 스트리머 서버 [**페스티벌**](https://festival.astria.kr) 운영 및 개발
 * **2023-2025:** **호랑스토어** 메인 개발 및 관리진
 * **2023-2025:** 350개 이상의 서버 셋팅 및 최적화
+* **2026-2031**: 장기 프로젝트 **아스트리아** 시작
 
 ### 연도별 주요 활동
+
+#### 2026션
+
+* [**뮤마랭**](https://chzzk.naver.com/e8451ea5461d1a5c92ebf11096d773bd) 주최 스트리머 서버, [**뮤점프 대회**](https://chzzk.naver.com/e8451ea5461d1a5c92ebf11096d773bd/community/detail/24201695) 개발 및 운영
+* 스트리머 서버, [포레스트: 안식처](https://naver.me/GHYX8FMo) 최적화
 
 #### 2025년
 
 * [**오아**](https://ch.sooplive.co.kr/legendhyuk) 주최 스트리머 서버, [**오함마 시즌 3**](https://ch.sooplive.co.kr/legendhyuk/post/168617021) 최적화
 * [**두칠**](https://www.youtube.com/@두칠이의게임방송) 주최 스트리머 서버, [**두아온**](https://gall.dcinside.com/mini/board/view/?id=soopvirtualstreamer&no=1425917) 최적화
+* [**뮤마랭**](https://chzzk.naver.com/e8451ea5461d1a5c92ebf11096d773bd) 주최 스트리머 서버, [**호빵게임**](https://naver.me/GlGCirlV) 개발 및 운영
+* 마인리스트 6위 **너굴타운** 최적화
 * 마인리스트 1위 **위르드 온라인** 기술 제공 및 최적화
 * 마인리스트 3위 [**베어타운**](https://www.beartown.kr/) 기술 제공 및 최적화</p>
 
