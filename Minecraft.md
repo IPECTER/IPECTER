@@ -23,18 +23,19 @@
 
 ### 연도별 주요 활동
 
-#### 2026션
+#### 2026년
 
 * [**뮤마랭**](https://chzzk.naver.com/e8451ea5461d1a5c92ebf11096d773bd) 주최 스트리머 서버, [**뮤점프 대회**](https://chzzk.naver.com/e8451ea5461d1a5c92ebf11096d773bd/community/detail/24201695) 개발 및 운영
-* 스트리머 서버, [포레스트: 안식처](https://naver.me/GHYX8FMo) 최적화
+* 스트리머 서버, [**포레스트: 안식처**](https://naver.me/GHYX8FMo) 최적화
 
 #### 2025년
 
 * [**오아**](https://ch.sooplive.co.kr/legendhyuk) 주최 스트리머 서버, [**오함마 시즌 3**](https://ch.sooplive.co.kr/legendhyuk/post/168617021) 최적화
 * [**두칠**](https://www.youtube.com/@두칠이의게임방송) 주최 스트리머 서버, [**두아온**](https://gall.dcinside.com/mini/board/view/?id=soopvirtualstreamer&no=1425917) 최적화
 * [**뮤마랭**](https://chzzk.naver.com/e8451ea5461d1a5c92ebf11096d773bd) 주최 스트리머 서버, [**호빵게임**](https://naver.me/GlGCirlV) 개발 및 운영
-* 마인리스트 6위 **너굴타운** 최적화
 * 마인리스트 1위 **위르드 온라인** 기술 제공 및 최적화
+* 마인리스트 4위 **너굴타운** 최적화
+* 마인리스트 1위 **꿀비팜** 최적화
 * 마인리스트 3위 [**베어타운**](https://www.beartown.kr/) 기술 제공 및 최적화</p>
 
 #### 2024년
